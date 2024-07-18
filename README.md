@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdur Razzak</h1>
 <h3 align="center">I'm a front-end developer who is passionate about contributing to open-source and building interactive web apps. Some technologies I enjoy working with include React.js and TypeScript. I believe I can add value to the community 🧑‍💻</h3>
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGRBJiCbrj9Bg/profile-displaybackgroundimage-shrink_350_1400/0/1718800365241?e=1726704000&v=beta&t=JIBZYcnh4JgDQEJOOT-4K5cpMEO_KJKCfyFm7aFF8-w)
+![banner](https://media.licdn.com/dms/image/D5616AQGRBJiCbrj9Bg/profile-displaybackgroundimage-shrink_350_1400/0/1718800365241?e=1726704000&v=beta&t=JIBZYcnh4JgDQEJOOT-4K5cpMEO_KJKCfyFm7aFF8-w)
 
 - 🔭 I’m currently working on [learning](https://github.com/abdur-razzak02?tab=repositories)
 
 - 🌱 I’m currently learning **Js, React**
 
-- 👨‍💻 All of my projects are available at [github]([github](https://github.com/abdur-razzak02?tab=repositories))
+- 👨‍💻 All of my projects are available at [github](https://github.com/abdur-razzak02?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abdur-razzak2002/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
