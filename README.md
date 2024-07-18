@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Js, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdur-razzak02]([github](https://github.com/abdur-razzak02?tab=repositories))
+- 👨‍💻 All of my projects are available at [github]([github](https://github.com/abdur-razzak02?tab=repositories))
 
 - 💬 Ask me about **anything**
 
