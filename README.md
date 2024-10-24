@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Razzak</h1>
 <h3 align="center">I'm a front-end developer who is passionate about contributing to open-source and building interactive web apps. Some technologies I enjoy working with include React.js and TypeScript. I believe I can add value to the community 🧑‍💻</h3>
 
-![banner](https://media.licdn.com/dms/image/D5616AQGRBJiCbrj9Bg/profile-displaybackgroundimage-shrink_350_1400/0/1718800365241?e=1726704000&v=beta&t=JIBZYcnh4JgDQEJOOT-4K5cpMEO_KJKCfyFm7aFF8-w)
+[Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQGRBJiCbrj9Bg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718800365241?e=1735171200&v=beta&t=nkKsvhNqRP87hUMvrfoHxITysWCMbgbNxL4VNBcN-vE)
 
 - 🔭 I’m currently working on [learning](https://github.com/abdur-razzak02?tab=repositories)
 
